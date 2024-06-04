@@ -3,14 +3,21 @@ This is an example git repository.
 For use in our git lesson
 ## Contents
 *- add in changes
+
 *- commit changes 
+
 *- more command changes
+
 *installation
-*date
+
+*Date
+
 *Change name
+
 *Made by
 ### Plans
 #### Signatories
 *Team Name
+
 *Job Title
 ##### Appendices
