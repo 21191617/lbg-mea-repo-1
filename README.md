@@ -6,5 +6,9 @@ For use in our git lesson
 *- commit changes 
 *- more command changes
 ##installation
-[date][Change name]
-[Made by]
+*date
+*Change name
+*Made by
+### Signatories
+*Team Name
+*Job Title
