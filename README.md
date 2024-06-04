@@ -5,11 +5,12 @@ For use in our git lesson
 *- add in changes
 *- commit changes 
 *- more command changes
-##installation
+*installation
 *date
 *Change name
 *Made by
-### Signatories
+### Plans
+#### Signatories
 *Team Name
 *Job Title
-#### Appedix
+##### Appendices
